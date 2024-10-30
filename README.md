@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any kind of web dev project.**
 
-- 👨‍💻 All of my projects are available at [to be build](to be build)
+- 👨‍💻 All of my projects are available at https://naveenbeniwal.onrender.com/
 
 - 💬 Ask me about **react , tailwind , bootstrap , express js , javascript**
 

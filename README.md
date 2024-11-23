@@ -94,46 +94,6 @@
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-
-<div align="center">
-
-  <!-- Activity Cards -->
-  <div style="display: block; text-align: center; margin-bottom: 20px;">
-    
-    <!-- Card 1 -->
-    <div style="background-color: #F75C7E; border-radius: 15px; padding: 20px; width: 280px; color: white; margin: 10px; box-sizing: border-box;">
-      <h3>💪 Opened PR</h3>
-      <p><a href="https://github.com/shub1407/UGOnlinePortal/pull/3" style="color: white; text-decoration: none;">[#3](https://github.com/shub1407/UGOnlinePortal/pull/3)</a></p>
-      <p>In <a href="https://github.com/shub1407/UGOnlinePortal" style="color: white; text-decoration: underline;">UGOnlinePortal</a></p>
-    </div>
-    
-    <!-- Card 2 -->
-    <div style="background-color: #42A5F5; border-radius: 15px; padding: 20px; width: 280px; color: white; margin: 10px; box-sizing: border-box;">
-      <h3>❌ Closed PR</h3>
-      <p><a href="https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311" style="color: white; text-decoration: none;">[#311](https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311)</a></p>
-      <p>In <a href="https://github.com/dscgecbsp/Hacktoberfest-2021" style="color: white; text-decoration: underline;">Hacktoberfest-2021</a></p>
-    </div>
-    
-    <!-- Card 3 -->
-    <div style="background-color: #FF8C42; border-radius: 15px; padding: 20px; width: 280px; color: white; margin: 10px; box-sizing: border-box;">
-      <h3>🎉 Merged PR</h3>
-      <p><a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1" style="color: white; text-decoration: none;">[#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1)</a></p>
-      <p>In <a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024" style="color: white; text-decoration: underline;">HactoberFestContribution2024</a></p>
-    </div>
-    
-    <!-- Card 4 -->
-    <div style="background-color: #C33764; border-radius: 15px; padding: 20px; width: 280px; color: white; margin: 10px; box-sizing: border-box;">
-      <h3>💪 Opened PR</h3>
-      <p><a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1" style="color: white; text-decoration: none;">[#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1)</a></p>
-      <p>In <a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024" style="color: white; text-decoration: underline;">HactoberFestContribution2024</a></p>
-    </div>
-
-  </div>
-  
-</div>
-
-<!--END_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <div align="center">

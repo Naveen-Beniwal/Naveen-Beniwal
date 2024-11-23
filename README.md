@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FF7722&size=30&center=true&vCenter=true&width=600&height=60&lines=Hi+there!+I'm+Naveen+Beniwal+👋;Full+Stack+Developer+💻;Passionate+Learner+🚀;Problem+Solver+🔍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3A95FF&center=true&vCenter=true&height=70&lines=Hi+👋+I'm+Naveen+Beniwal;Full+Stack+Developer;Problem+Solver;Creative+Coder" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>
 
+<br/>
 <br/>
 
 <div>

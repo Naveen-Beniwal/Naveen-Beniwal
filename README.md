@@ -1,13 +1,16 @@
-<!-- Header Section with Animated Waves -->
+<!-- Animated Gradient Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Naveen%20Beniwal&fontSize=50&fontColor=fff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
   
-  ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **Welcome to my GitHub Profile!**
+  <!-- Welcome Message with Animated Emojis -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Welcome to my GitHub Profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   
-  #### 🚀 Full Stack Developer | 🖥️ Code Craftsman
-  
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=1000&lines=Building+Innovative+Web+Applications;Mastering+Animation+Libraries;Turning+Coffee+Into+Code+and+Ideas+Into+Reality!" alt="Typing SVG" />
+  <!-- Typing SVG Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Building+Innovative+Web+Applications;Mastering+Animation+Libraries;Turning+Coffee+Into+Code+and+Ideas+Into+Reality!" alt="Typing SVG" />
   
   <!-- Animated Rocket GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="Rocket GIF" />
@@ -48,14 +51,16 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <!-- Fancy Icon Border -->
-  <img src="https://img.shields.io/badge/-Frontend-000000?style=for-the-badge&logo=#E34F26&logoColor=white" /><br/><br/>
+  <!-- Frontend -->
+  <h3>🚀 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap" /><br/><br/>
   
-  <img src="https://img.shields.io/badge/-Backend-000000?style=for-the-badge&logo=#3776AB&logoColor=white" /><br/><br/>
+  <!-- Backend -->
+  <h3>🛠️ Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,cpp" /><br/><br/>
   
-  <img src="https://img.shields.io/badge/-Tools-000000?style=for-the-badge&logo=#F05032&logoColor=white" /><br/><br/>
+  <!-- Tools -->
+  <h3>💡 Tools</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </div>
 
@@ -65,14 +70,14 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=vision-friendly-dark&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="180" alt="GitHub Stats" />
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=tokyonight&border_radius=10&hide_border=true&background=0D1117&fire=bf91f3&ring=70a5fd&currStreakLabel=bf91f3" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=vision-friendly-dark&border_radius=15&hide_border=true&background=0D1117&fire=F75C7E&ring=F75C7E&currStreakLabel=F75C7E" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=70a5fd&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=vision-friendly-dark&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -81,17 +86,17 @@
 
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <!-- Visitors Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Naveen-Beniwal&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Naveen-Beniwal&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
-<!-- Footer Section with Animated Waves -->
+<!-- Animated Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>

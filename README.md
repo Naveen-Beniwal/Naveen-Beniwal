@@ -12,7 +12,7 @@
   <!-- Typing SVG Effect -->
 <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Building+Innovative+Web+Applications;Mastering+Animation+Libraries;Turning+Coffee+Into+Code+and+Ideas+Into+Reality!" alt="Typing SVG" />
 -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions+for+5000%2B+Users;Transform+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner+%7C+105+DSA+Problems+Conquered;NIT+Kurukshetra+CSE+%7C+99.4+Percentile;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions;Transform+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner;NIT+Kurukshetra;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
   <!-- Animated Rocket GIF -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" alt="Rocket GIF" />
 </div>

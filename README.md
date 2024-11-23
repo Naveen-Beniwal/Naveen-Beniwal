@@ -91,8 +91,10 @@
 </div>
 
 ---
+## Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 <div align="center">
   <!-- Visitors Counter -->
   <img src="https://komarev.com/ghpvc/?username=Naveen-Beniwal&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />

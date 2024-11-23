@@ -91,13 +91,47 @@
 </div>
 
 ---
-## Recent Activity
+
+## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/shub1407/UGOnlinePortal/pull/3) in [shub1407/UGOnlinePortal](https://github.com/shub1407/UGOnlinePortal)
-2. ❌ Closed PR [#311](https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311) in [dscgecbsp/Hacktoberfest-2021](https://github.com/dscgecbsp/Hacktoberfest-2021)
-3. 🎉 Merged PR [#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1) in [Naveen-Beniwal/HactoberFestContribution2024](https://github.com/Naveen-Beniwal/HactoberFestContribution2024)
-4. 💪 Opened PR [#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1) in [Naveen-Beniwal/HactoberFestContribution2024](https://github.com/Naveen-Beniwal/HactoberFestContribution2024)
-5. 🎉 Merged PR [#1](https://github.com/Naveen-Beniwal/Developers-Community/pull/1) in [Naveen-Beniwal/Developers-Community](https://github.com/Naveen-Beniwal/Developers-Community)
+
+<div align="center">
+
+  <!-- Activity Cards -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+    
+    <!-- Card 1 -->
+    <div style="background: linear-gradient(135deg, #F75C7E, #FF8C42); border-radius: 15px; padding: 20px; width: 280px; color: white; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>💪 Opened PR</h3>
+      <p><a href="https://github.com/shub1407/UGOnlinePortal/pull/3" style="color: white; text-decoration: none;">[#3](https://github.com/shub1407/UGOnlinePortal/pull/3)</a></p>
+      <p>In <a href="https://github.com/shub1407/UGOnlinePortal" style="color: white; text-decoration: underline;">UGOnlinePortal</a></p>
+    </div>
+    
+    <!-- Card 2 -->
+    <div style="background: linear-gradient(135deg, #42A5F5, #5CDB94); border-radius: 15px; padding: 20px; width: 280px; color: white; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>❌ Closed PR</h3>
+      <p><a href="https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311" style="color: white; text-decoration: none;">[#311](https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311)</a></p>
+      <p>In <a href="https://github.com/dscgecbsp/Hacktoberfest-2021" style="color: white; text-decoration: underline;">Hacktoberfest-2021</a></p>
+    </div>
+    
+    <!-- Card 3 -->
+    <div style="background: linear-gradient(135deg, #FF8C42, #FFD700); border-radius: 15px; padding: 20px; width: 280px; color: white; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>🎉 Merged PR</h3>
+      <p><a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1" style="color: white; text-decoration: none;">[#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1)</a></p>
+      <p>In <a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024" style="color: white; text-decoration: underline;">HactoberFestContribution2024</a></p>
+    </div>
+    
+    <!-- Card 4 -->
+    <div style="background: linear-gradient(135deg, #C33764, #1D2671); border-radius: 15px; padding: 20px; width: 280px; color: white; text-align: left; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+      <h3>💪 Opened PR</h3>
+      <p><a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1" style="color: white; text-decoration: none;">[#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1)</a></p>
+      <p>In <a href="https://github.com/Naveen-Beniwal/HactoberFestContribution2024" style="color: white; text-decoration: underline;">HactoberFestContribution2024</a></p>
+    </div>
+
+  </div>
+  
+</div>
+
 <!--END_SECTION:activity-->
 
 <div align="center">

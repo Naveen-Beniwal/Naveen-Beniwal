@@ -94,8 +94,6 @@
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
 
 <div align="center">
 

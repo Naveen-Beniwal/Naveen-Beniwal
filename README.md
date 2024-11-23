@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Naveen Beniwal</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+👋+I'm+Naveen+Beniwal;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
+</div>
+
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-beniwal&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-beniwal" /> </p>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=naveen-beniwal&theme=tokyonight" alt="naveen-beniwal" /> </p>
 
 - 🌱 I'm currently learning **animation libraries, DSA, Backend, UI/UX**
 
@@ -15,6 +20,10 @@
 
 - ⚡ Fun fact **I have a great passion for making stunning websites and I also make friends fast**
 
+## 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/naveen-beniwal-40b719313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-beniwal-40b719313" height="30" width="40" /></a>
@@ -25,21 +34,22 @@
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<!-- [Rest of your tools and languages icons] -->
+<!-- Rest of your tools icons -->
 </p>
 
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-beniwal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="naveen-beniwal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-beniwal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="naveen-beniwal" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-beniwal&show_icons=true&locale=en&theme=tokyonight" alt="naveen-beniwal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveen-beniwal&show_icons=true&locale=en&theme=tokyonight" alt="naveen-beniwal" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-beniwal&theme=tokyonight" alt="naveen-beniwal" />
 </p>
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=naveen-beniwal&theme=react-dark)

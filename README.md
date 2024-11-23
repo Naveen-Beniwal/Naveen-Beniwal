@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=35&duration=4000&pause=1000&color=3A95FF&center=true&vCenter=true&height=70&lines=Hi+👋+I'm+Naveen+Beniwal;Full+Stack+Developer;Problem+Solver;Creative+Coder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=4000&pause=1000&color=3550F7&center=true&vCenter=true&width=460&lines=Hi+%F0%9F%91%8B+I'm+Naveen+Beniwal;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 </div>

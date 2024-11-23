@@ -19,14 +19,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
 ## 💫 About Me
 
 - 🔭 I’m currently working on **building innovative web applications**
@@ -91,6 +83,14 @@
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
 
 <div align="center">
   <!-- Visitors Counter -->

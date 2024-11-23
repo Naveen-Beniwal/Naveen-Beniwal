@@ -93,6 +93,11 @@
 ---
 ## Recent Activity
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/shub1407/UGOnlinePortal/pull/3) in [shub1407/UGOnlinePortal](https://github.com/shub1407/UGOnlinePortal)
+2. ❌ Closed PR [#311](https://github.com/dscgecbsp/Hacktoberfest-2021/pull/311) in [dscgecbsp/Hacktoberfest-2021](https://github.com/dscgecbsp/Hacktoberfest-2021)
+3. 🎉 Merged PR [#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1) in [Naveen-Beniwal/HactoberFestContribution2024](https://github.com/Naveen-Beniwal/HactoberFestContribution2024)
+4. 💪 Opened PR [#1](https://github.com/Naveen-Beniwal/HactoberFestContribution2024/pull/1) in [Naveen-Beniwal/HactoberFestContribution2024](https://github.com/Naveen-Beniwal/HactoberFestContribution2024)
+5. 🎉 Merged PR [#1](https://github.com/Naveen-Beniwal/Developers-Community/pull/1) in [Naveen-Beniwal/Developers-Community](https://github.com/Naveen-Beniwal/Developers-Community)
 <!--END_SECTION:activity-->
 
 <div align="center">

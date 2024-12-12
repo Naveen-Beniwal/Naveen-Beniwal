@@ -10,11 +10,7 @@
   </h1>
   
   <!-- Typing SVG Effect -->
-<!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Building+Innovative+Web+Applications;Mastering+Animation+Libraries;Turning+Coffee+Into+Code+and+Ideas+Into+Reality!" alt="Typing SVG" />
--->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions;Transform+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner;NIT+Kurukshetra;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
-  <!-- Animated Rocket GIF -->
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions;Transforming+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner;NIT+Kurukshetra;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
 </div>
 
 ---
@@ -67,6 +63,64 @@
 
 ---
 
+## 📈 Projects
+
+### 🎓 Placement Portal - Campus Recruitment Management System
+A sophisticated MERN stack application designed to revolutionize campus placement processes through advanced analytics, real-time tracking, and seamless integration between students, recruiters, and administrators.
+
+**Features & Highlights:**
+- Real-time statistical analysis with Chart.js integration
+- Interactive visualization dashboard
+- JWT-based authentication system
+- Role-based access control (RBAC)
+- Multi-format export system (CSV/Excel)
+- Secure API endpoints with middleware
+
+**Technical Stack:**
+- **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
+- **Frontend**: React.js, Material-UI, Context API, Axios
+
+**Impact:**
+- Improved accuracy by 95%
+- Reduced manual work by 80%
+- Supporting 5000+ students across multiple departments
+
+### 📚 Full-Stack Attendance Management System
+A scalable MERN stack solution handling 5000+ students with real-time tracking, designed to streamline attendance management and improve accuracy.
+
+**Features & Highlights:**
+- Real-time attendance tracking for professors
+- Subject-wise analytics and real-time updates for students
+- User management and system monitoring for admins
+- JWT Authentication and role-based access control
+- Database indexing and optimized queries for performance
+
+**Technical Stack:**
+- **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
+- **Frontend**: React.js, Tailwind CSS, Context API
+
+**Impact:**
+- Reduced manual work by 80%
+- Improved accuracy by 95%
+
+### 🎬 Advanced MERN Stack Video Platform
+A full-stack Netflix-inspired streaming platform built with MERN stack, featuring advanced authentication, TMDB integration, and a modern responsive UI.
+
+**Core Features:**
+- **Advanced Authentication System**: Secure email verification, JWT-based authentication, password encryption, and session management
+- **Content Discovery Engine**: Multi-category search system with TMDB API integration
+- **Modern UI**: Built with React and TailwindCSS for a responsive and user-friendly experience
+
+**Technical Stack:**
+- **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
+- **Frontend**: React.js, Vite, TailwindCSS
+
+**Impact:**
+- Enhanced content discovery and personalized user experience
+- Secure and efficient user management
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -91,7 +145,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <!-- Visitors Counter -->

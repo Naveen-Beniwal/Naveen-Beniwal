@@ -92,7 +92,7 @@ Built a scalable MERN stack solution for real-time attendance tracking, improvin
 - Improved accuracy by 95%
 
 ### 🎬 Netflix Clone
-Developed a Netflix-inspired streaming platform featuring advanced authentication, TMDB integration, and stunning frontend animations.
+Developed a Netflix-inspired streaming platform featuring advanced authentication, TMDB integration..
 
 **Key Features:**
 - Secure email verification, JWT-based authentication, and session management

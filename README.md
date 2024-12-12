@@ -1,65 +1,29 @@
-<!-- Animated Gradient Background -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
 </div>
 
-<!-- Welcome Message with Animated Emojis -->
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Welcome to my GitHub Profile!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions;Transforming+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner;NIT+Kurukshetra;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
-</div>
+## 👋 Hello, I'm Naveen Beniwal
+
+I'm a **Full Stack Developer** passionate about creating scalable web applications and mastering **Data Structures and Algorithms (DSA)**.
+
+- 🌱 Currently focusing on DSA alongside my web development skills.
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, DSA**.
+- 📫 How to reach me: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
+- 🌐 Visit my [Portfolio](https://naveenbeniwal.onrender.com).
 
 ---
 
-## 💫 About Me
+## 🛠️ Tech Stack
 
-- 🔭 Currently working on **building innovative web applications**
-- 🌱 Mastering **Data Structures and Algorithms (DSA)** alongside web development
-- 👨‍💻 Portfolio: [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, DSA**
-- 📫 Email: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
-- ⚡ Fun fact: **I turn coffee into code and ideas into reality!**
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
----
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:naveenbeniwal00001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/naveen-beniwal-40b719313" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/naveen_beniwal_265" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://naveenbeniwal.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-  <!-- Frontend -->
-  <h3>🚀 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,html,css,javascript,typescript,tailwind,bootstrap" /><br/><br/>
-  
-  <!-- Backend -->
-  <h3>🛠️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,java,cpp" /><br/><br/>
-  
-  <!-- Tools -->
-  <h3>💡 Tools</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</div>
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
@@ -68,7 +32,7 @@
 ### 🎓 Placement Portal - Campus Recruitment Management System
 A sophisticated MERN stack application designed to revolutionize campus placement processes through advanced analytics, real-time tracking, and seamless integration between students, recruiters, and administrators.
 
-**Features & Highlights:**
+**Features:**
 - Real-time statistical analysis with Chart.js integration
 - Interactive visualization dashboard
 - JWT-based authentication system
@@ -76,7 +40,7 @@ A sophisticated MERN stack application designed to revolutionize campus placemen
 - Multi-format export system (CSV/Excel)
 - Secure API endpoints with middleware
 
-**Technical Stack:**
+**Tech Stack:**
 - **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
 - **Frontend**: React.js, Material-UI, Context API, Axios
 
@@ -88,14 +52,14 @@ A sophisticated MERN stack application designed to revolutionize campus placemen
 ### 📚 Full-Stack Attendance Management System
 A scalable MERN stack solution handling 5000+ students with real-time tracking, designed to streamline attendance management and improve accuracy.
 
-**Features & Highlights:**
+**Features:**
 - Real-time attendance tracking for professors
 - Subject-wise analytics and real-time updates for students
 - User management and system monitoring for admins
 - JWT Authentication and role-based access control
 - Database indexing and optimized queries for performance
 
-**Technical Stack:**
+**Tech Stack:**
 - **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
 - **Frontend**: React.js, Tailwind CSS, Context API
 
@@ -111,7 +75,7 @@ A full-stack Netflix-inspired streaming platform built with MERN stack, featurin
 - **Content Discovery Engine**: Multi-category search system with TMDB API integration
 - **Modern UI**: Built with React and TailwindCSS for a responsive and user-friendly experience
 
-**Technical Stack:**
+**Tech Stack:**
 - **Backend**: Node.js, Express.js, MongoDB, JWT Authentication
 - **Frontend**: React.js, Vite, TailwindCSS
 
@@ -124,15 +88,9 @@ A full-stack Netflix-inspired streaming platform built with MERN stack, featurin
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=vision-friendly-dark&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="180" alt="GitHub Stats" />
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=vision-friendly-dark&border_radius=15&hide_border=true&background=0D1117&fire=F75C7E&ring=F75C7E&currStreakLabel=F75C7E" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=vision-friendly-dark&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&layout=compact&langs_count=8" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&background=0D1117&fire=F75C7E&ring=F75C7E&currStreakLabel=F75C7E" height="180" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
 ---
@@ -140,18 +98,15 @@ A full-stack Netflix-inspired streaming platform built with MERN stack, featurin
 ## 🏆 Trophies
 
 <div align="center">
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Visitors Counter -->
   <img src="https://komarev.com/ghpvc/?username=Naveen-Beniwal&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
-<!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </div>

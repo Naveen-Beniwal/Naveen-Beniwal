@@ -7,9 +7,9 @@
 
 I'm a **Full Stack Developer** with a CGPA of **9.05** at **NIT Kurukshetra**, passionate about creating scalable web applications, solving complex problems with **Data Structures and Algorithms (DSA)**, and delivering impactful solutions.
 
-- 🌟 **Quick Learner**: Built a complete Training and Placement Portal in just **1 day and 3 hours**.
+- 🌟 **Quick Learner**: Built a complete Training and Placement Portal in just **1 day and few hours**.
 - 🌱 **Currently Learning**: Advanced DSA, system design, and performance optimization.
-- 💬 **Ask Me About**: React, Node.js, JWT, MongoDB, Passport.js, and frontend animations.
+- 💬 **Ask Me About**: React, Node.js, JWT, MongoDB, Passport.js, and frontend animations (FULLSTACK).
 - 📫 **Reach Me At**: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
 - 🌐 **Portfolio**: [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
 
@@ -54,7 +54,7 @@ I'm a **Full Stack Developer** with a CGPA of **9.05** at **NIT Kurukshetra**, p
 ## 📈 Projects
 
 ### 🎓 Placement Portal - Campus Recruitment Management System
-Developed a sophisticated MERN stack application in **1 day and 3 hours**, optimizing campus placement processes through advanced analytics and real-time tracking.
+Developed a sophisticated MERN stack application in **1 day and few hours**, optimizing campus placement processes through advanced analytics and real-time tracking.
 
 **Key Features:**
 - Real-time statistical analysis with Chart.js integration

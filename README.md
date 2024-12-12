@@ -5,10 +5,11 @@
 
 # 👋 Hello, I'm Naveen Beniwal
 
-I'm a **Full Stack Developer** passionate about creating scalable web applications and solving complex problems with **Data Structures and Algorithms (DSA)**.
+I'm a **Full Stack Developer** with a CGPA of **9.05** at **NIT Kurukshetra**, passionate about creating scalable web applications, solving complex problems with **Data Structures and Algorithms (DSA)**, and delivering impactful solutions.
 
-- 🌱 **Currently Learning**: Advanced DSA techniques and performance optimization.
-- 💬 **Ask Me About**: React, Node.js, Express.js, MongoDB, DSA, and modern web development practices.
+- 🌟 **Quick Learner**: Built a complete Training and Placement Portal in just **1 day and 3 hours**.
+- 🌱 **Currently Learning**: Advanced DSA, system design, and performance optimization.
+- 💬 **Ask Me About**: React, Node.js, JWT, MongoDB, Passport.js, and frontend animations.
 - 📫 **Reach Me At**: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
 - 🌐 **Portfolio**: [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
 
@@ -24,13 +25,15 @@ I'm a **Full Stack Developer** passionate about creating scalable web applicatio
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Multer](https://img.shields.io/badge/-Multer-FF6C37?style=flat&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat&logo=passport&logoColor=white)
 
 ### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -51,12 +54,12 @@ I'm a **Full Stack Developer** passionate about creating scalable web applicatio
 ## 📈 Projects
 
 ### 🎓 Placement Portal - Campus Recruitment Management System
-A sophisticated MERN stack application designed to streamline campus placement processes with advanced analytics and real-time tracking.
+Developed a sophisticated MERN stack application in **1 day and 3 hours**, optimizing campus placement processes through advanced analytics and real-time tracking.
 
 **Key Features:**
 - Real-time statistical analysis with Chart.js integration
 - Interactive visualization dashboard
-- JWT-based authentication system
+- Secure JWT-based authentication
 - Role-based access control (RBAC)
 - Multi-format export system (CSV/Excel)
 - Secure API endpoints with middleware
@@ -67,11 +70,11 @@ A sophisticated MERN stack application designed to streamline campus placement p
 
 **Impact:**
 - Improved placement process accuracy by 95%
-- Reduced manual work by 80%
-- Currently supporting 5000+ students across multiple departments
+- Reduced manual workload by 80%
+- Supports 5000+ students across multiple departments
 
 ### 📚 Attendance Management System
-A scalable MERN stack solution for real-time attendance tracking, designed to streamline attendance management and improve efficiency.
+Built a scalable MERN stack solution for real-time attendance tracking, improving efficiency for professors and students.
 
 **Key Features:**
 - Real-time attendance tracking for professors
@@ -89,16 +92,16 @@ A scalable MERN stack solution for real-time attendance tracking, designed to st
 - Improved accuracy by 95%
 
 ### 🎬 Netflix Clone
-A Netflix-inspired streaming platform built with the MERN stack, featuring advanced authentication, TMDB integration, and a modern responsive UI.
+Developed a Netflix-inspired streaming platform featuring advanced authentication, TMDB integration, and stunning frontend animations.
 
 **Key Features:**
 - Secure email verification, JWT-based authentication, and session management
 - Multi-category search with TMDB API integration
-- Responsive design using TailwindCSS and GSAP
+- Responsive design with GSAP and Framer Motion animations
 
 **Tech Stack:**
 - **Backend**: Node.js, Express.js, MongoDB
-- **Frontend**: React.js, TailwindCSS, GSAP, Framer
+- **Frontend**: React.js, TailwindCSS, GSAP, Framer Motion
 
 **[Live Demo](https://upgraded-mern-stack-video-platform.onrender.com)**
 
@@ -106,9 +109,9 @@ A Netflix-inspired streaming platform built with the MERN stack, featuring advan
 
 ## 🚀 My Goals
 
-- Deepen expertise in **system design** and scalable architectures.
-- Enhance problem-solving skills through competitive programming.
-- Contribute to open-source projects and build a developer community.
+- Strengthen system design skills for scalable architectures.
+- Advance problem-solving abilities with competitive programming.
+- Contribute to impactful open-source projects.
 
 ---
 

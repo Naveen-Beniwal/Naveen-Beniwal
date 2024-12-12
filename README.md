@@ -18,9 +18,9 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on **building innovative web applications**
-- 🌱 I’m mastering **Animation Libraries, DSA & Backend Development**
+- 🌱 I’m mastering **Data Structures and Algorithms (DSA)** alongside my web development skills
 - 👨‍💻 Portfolio: [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, DSA**
 - 📫 Email me at [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
 - ⚡ Fun fact: **I turn coffee into code and ideas into reality!**
 

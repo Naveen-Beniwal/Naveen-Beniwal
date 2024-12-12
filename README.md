@@ -5,7 +5,7 @@
 
 # 👋 Hello, I'm Naveen Beniwal
 
-I'm a **Full Stack Developer** with a CGPA of **9.05** at **NIT Kurukshetra**, passionate about creating scalable web applications, solving complex problems with **Data Structures and Algorithms (DSA)**, and delivering impactful solutions.
+I'm a **Full Stack Developer**  at **NIT Kurukshetra**, passionate about creating scalable web applications, solving complex problems with **Data Structures and Algorithms (DSA)**, and delivering impactful solutions.
 
 - 🌟 **Quick Learner**: Built a complete Training and Placement Portal in just **1 day and few hours**.
 - 🌱 **Currently Learning**: Advanced DSA, system design, and performance optimization.

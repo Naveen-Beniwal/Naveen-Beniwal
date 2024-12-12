@@ -51,7 +51,7 @@ I'm a **Full Stack Developer**  at **NIT Kurukshetra**, passionate about creatin
 
 ---
 
-## 📈 Projects
+## 📈Solid Projects!
 
 ### 🎓 Placement Portal - Campus Recruitment Management System
 Developed a sophisticated MERN stack application in **1 day and few hours**, optimizing campus placement processes through advanced analytics and real-time tracking.
@@ -91,7 +91,7 @@ Built a scalable MERN stack solution for real-time attendance tracking, improvin
 - Reduced manual work by 80%
 - Improved accuracy by 95%
 
-### 🎬 Netflix Clone
+### 🎬 Movie Streaming Platform
 Developed a Netflix-inspired streaming platform featuring advanced authentication, TMDB integration..
 
 **Key Features:**

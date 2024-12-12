@@ -1,15 +1,15 @@
 <!-- Animated Gradient Background -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&color=gradient&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
-  
-  <!-- Welcome Message with Animated Emojis -->
+</div>
+
+<!-- Welcome Message with Animated Emojis -->
+<div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Welcome to my GitHub Profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  
-  <!-- Typing SVG Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+%7C+MERN+Enthusiast;Crafting+Scalable+Solutions;Transforming+Complex+Problems+into+Elegant+Code;Building+with+React%2C+Node%2C+and+Advanced+Animations;Fast+Learner;NIT+Kurukshetra;Turning+Ideas+into+Production-Ready+Applications" alt="Typing SVG" />
 </div>
 
@@ -17,11 +17,11 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on **building innovative web applications**
-- 🌱 I’m mastering **Data Structures and Algorithms (DSA)** alongside my web development skills
+- 🔭 Currently working on **building innovative web applications**
+- 🌱 Mastering **Data Structures and Algorithms (DSA)** alongside web development
 - 👨‍💻 Portfolio: [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, DSA**
-- 📫 Email me at [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
+- 📫 Email: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
 - ⚡ Fun fact: **I turn coffee into code and ideas into reality!**
 
 ---

@@ -7,7 +7,7 @@
 
 I'm a **Full Stack Developer**  at **NIT Kurukshetra**, passionate about creating scalable web applications, solving complex problems with **Data Structures and Algorithms (DSA)**, and delivering impactful solutions.
 
-- 🌟 **Quick Learner**: Built a complete Training and Placement Portal in just **1 day and few hours**.
+- 🌟 Quick Learner: Successfully built a complete Training and Placement Portal single-handedly.
 - 🌱 **Currently Learning**: Advanced DSA, system design, and performance optimization.
 - 💬 **Ask Me About**: React, Node.js, JWT, MongoDB, Passport.js, and frontend animations (FULLSTACK).
 - 📫 **Reach Me At**: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)

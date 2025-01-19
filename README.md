@@ -54,7 +54,7 @@ I'm a **Full Stack Developer**  at **NIT Kurukshetra**, passionate about creatin
 ## 📈Solid Projects!
 
 ### 🎓 Placement Portal - Campus Recruitment Management System
-Developed a sophisticated MERN stack application in **1 day and few hours**, optimizing campus placement processes through advanced analytics and real-time tracking.
+Developed a sophisticated MERN stack application , optimizing campus placement processes through advanced analytics and real-time tracking.
 
 **Key Features:**
 - Real-time statistical analysis with Chart.js integration

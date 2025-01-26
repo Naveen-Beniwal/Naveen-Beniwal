@@ -9,7 +9,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 - 🔭 **Currently Working On:** Enhancing my DSA skills and collaborating on exciting full-stack projects.  
 - 🌱 **Currently Learning:** Exploring advanced recursion and dynamic programming, while refining full-stack development skills.  
 - 👯 **Looking to Collaborate On:** AI-powered applications, SaaS platforms, or any project requiring a seamless UI/UX touch.  
-- 💼 **Core Expertise:** Designing **sexy, responsive UIs** and developing robust backend architectures for scalable applications.  
+- 💼 **Core Expertise:** Designing **appealing, responsive UIs** and developing robust backend architectures for scalable applications.  
 - 💬 **Ask Me About:** Web development, optimizing backend systems, designing stunning UIs, or integrating AI in projects.  
 - 🎯 **Passion:** Writing clean, maintainable code and delivering top-notch user experiences.  
 - 📫 **Contact Me:** Drop a message via [Email](mailto:udaynarwal72@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/uday-narwal-06a49a287/).  

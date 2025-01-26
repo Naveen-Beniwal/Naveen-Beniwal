@@ -132,6 +132,10 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 </div>
 
 ---
+## 📈 Contribution Calendar
+
+<!-- Add 3D contribution calendar -->
+![3D Contribution Calendar](https://raw.githubusercontent.com/Naveen-Beniwal/Naveen-Beniwal/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Naveen-Beniwal&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />

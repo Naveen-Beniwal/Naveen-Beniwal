@@ -7,7 +7,7 @@
 
 Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a dedicated problem solver. With a knack for building **intuitive UIs** and scalable applications, I thrive on delivering impactful, user-focused solutions.
 
-- 🔭 **Currently Working On:** Enhancing my DSA skills and collaborating on exciting full-stack projects
+- 🔭 **Currently Working On:** Building a Placement Portal to simplify recruitment processes with scalable and user-friendly design
 - 🌱 **Currently Learning:** Exploring advanced recursion and dynamic programming, while refining full-stack development skills
 - 👯 **Looking to Collaborate On:** AI-powered applications, SaaS platforms, or any project requiring a seamless UI/UX touch
 - 💼 **Core Expertise:** Designing **appealing, responsive UIs** and developing robust backend architectures for scalable applications
@@ -33,6 +33,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -41,6 +42,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat&logo=passport&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 
 ### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -132,7 +134,10 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 ![](https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=aura&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naveen-Beniwal&limit=5&theme=holi&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Naveen-Beniwal&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 

@@ -3,47 +3,44 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=60" alt="Header" />
 </div>
 
-# 👋 Hello, I'm Naveen Beniwal
+# 💫 About Me:
+Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a dedicated problem solver. With a knack for building **intuitive UIs** and scalable applications, I thrive on delivering impactful, user-focused solutions.
 
-A **Full Stack Developer** and **DSA Enthusiast** pursuing **B.Tech in Computer Science** at **NIT Kurukshetra (2023–2027)**. I am passionate about building scalable, production-grade applications and solving real-world problems with efficient algorithms.
+- 🔭 **Currently Working On:** Enhancing my DSA skills and collaborating on exciting full-stack projects.  
+- 🌱 **Currently Learning:** Exploring advanced recursion and dynamic programming, while refining full-stack development skills.  
+- 👯 **Looking to Collaborate On:** AI-powered applications, SaaS platforms, or any project requiring a seamless UI/UX touch.  
+- 💼 **Core Expertise:** Designing **sexy, responsive UIs** and developing robust backend architectures for scalable applications.  
+- 💬 **Ask Me About:** Web development, optimizing backend systems, designing stunning UIs, or integrating AI in projects.  
+- 🎯 **Passion:** Writing clean, maintainable code and delivering top-notch user experiences.  
+- 📫 **Contact Me:** Drop a message via [Email](mailto:udaynarwal72@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/uday-narwal-06a49a287/).  
 
-### 🎯 Highlights:
-- Advanced **DSA proficiency**: Solved 125+ problems, confident in recursion, graphs, and competitive programming.
-- Delivered **4+ production-grade applications** with robust architecture and scalable designs.
-- Participated in **Smart India Hackathon 2022**, advancing to Round 2.
-- Exceptional academic performance: **9.05 CGPA** and **99.4 percentile in JEE**.
+---
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/uday72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/udaynarwal_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-narwal-06a49a287) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/udaynarwal72)  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
+### **Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+### **Frontend Development**  
+![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/FramerMotion-%23595959.svg?style=for-the-badge&logo=framer&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-%23111111.svg?style=for-the-badge&logo=greensock&logoColor=white)  
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-FFC107?style=flat&logo=data:image/png;base64,<Base64Image>)
+### **Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
 
-### 🖥️ Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+### **Databases & Tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+### **Dev Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
+
+## 🚀
+
 
 ## 📈 Projects
 

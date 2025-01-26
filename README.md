@@ -124,11 +124,9 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&background=0D1117&fire=F75C7E&ring=F75C7E&currStreakLabel=F75C7E" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&layout=compact&langs_count=8" height="180" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 

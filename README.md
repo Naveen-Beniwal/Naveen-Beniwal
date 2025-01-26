@@ -117,20 +117,34 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&background=0D1117&fire=F75C7E&ring=F75C7E&currStreakLabel=F75C7E" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=radical&border_radius=15&hide_border=true&bg_color=0D1117&title_color=F75C7E&layout=compact&langs_count=8" height="180" alt="Top Languages" />
-</div>
+<!-- GitHub Stats Cards with Better Visibility -->
+<p align="center">
+  <a href="https://github.com/Naveen-Beniwal">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
----
+<!-- Languages Card -->
+<p align="center">
+  <a href="https://github.com/Naveen-Beniwal">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  </a>
+</p>
 
-## 🏆 Trophies
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Naveen-Beniwal">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveen-Beniwal&theme=tokyo-night&hide_border=true" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
+<!-- Trophies -->
+<p align="center">
+  <a href="https://github.com/Naveen-Beniwal">
+    <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  </a>
+</p>
 ---
 
 <div align="center">

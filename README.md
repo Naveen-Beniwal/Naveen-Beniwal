@@ -130,22 +130,17 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naveen-Beniwal&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naveen-Beniwal&theme=juicyfresh&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
 
 ---
 

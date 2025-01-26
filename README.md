@@ -121,7 +121,7 @@ Developed a Netflix-inspired streaming platform featuring advanced authenticatio
 <p align="center">
   <a href="https://github.com/Naveen-Beniwal">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=tokyonight&hide_border=true" />
+  
   </a>
 </p>
 

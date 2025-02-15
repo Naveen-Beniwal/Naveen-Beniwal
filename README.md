@@ -14,7 +14,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 - 💬 **Ask Me About:** Web development, optimizing backend systems, or designing stunning UIs
 - 🎯 **Passion:** Writing clean, maintainable code and delivering top-notch user experiences
 - 📫 **Contact Me:** Drop a message via [Email](mailto:naveenbeniwal00001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-beniwal-40b719313/)
-- 🌐 **Portfolio:** [naveenbeniwal.onrender.com](https://naveenbeniwal.onrender.com)
+- 🌐 **Portfolio:** [naveenbeniwalportfolio.vercel.app/](https://naveenbeniwalportfolio.vercel.app/)
 
 ---
 
@@ -83,7 +83,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 - Showcased advanced front-end skills with a visually appealing, highly interactive, and fully responsive design.
 - Integrated animations and transitions using Framer.
 - Projects Demo Videos available.
-- [Live Demo](https://naveenbeniwal.onrender.com)
+- [Live Demo](https://naveenbeniwalportfolio.vercel.app/)
 
 ### ✨ GSAP Animation Project
 - Created an interactive and visually appealing website using GSAP for advanced animations and smooth transitions.

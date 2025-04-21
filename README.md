@@ -47,7 +47,7 @@ Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a 
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
 ![Passport.js](https://img.shields.io/badge/-Passport.js-34E27A?style=flat&logo=passport&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 
 ### 🖥️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)

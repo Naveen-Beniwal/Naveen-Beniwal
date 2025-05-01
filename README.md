@@ -116,11 +116,12 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 🔗 [Live Demo](https://naveen-beniwal.github.io/my_project_1/)
 
 ---
-## 🚀 My Goals
+## 🧭 My Current Focus
 
-- Strengthen system design for scalable web apps.
-- Improve DSA and competitive programming skills.
-- Contribute to open-source projects that make real impact.
+- 🛠️ Evolving Placement Portal into a real product
+- 💬 Launching Vartaalap (chat app)
+- 🧠 Deepening DSA and system design
+- 🌍 Exploring remote roles with product-focused global teams
 
 ---
 ## 🤝 Let’s Build Something

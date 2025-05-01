@@ -1,28 +1,30 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20Product%20Builder%20%7C%20Open%20to%20Remote%20Internships&descAlign=50&descAlignY=60" alt="Header" />
 </div>
+
+<h2 align="center">🚀 Turning ideas into fast, scalable, beautiful web products</h2>
+
+---
 
 ## 👋 About Me
 
 Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and problem solver who loves building production-grade web applications. I thrive on writing clean, scalable code and delivering smooth user experiences — especially for products that matter.
 
-- 🔭 **Current Focus:** Building real-time apps, refining TypeScript and backend architectures
-- 🌱 **Learning:** Advanced DSA + system design for high-scale applications
-- 🌍 **Looking for:** Remote internships with **foreign startups** solving real-world problems
-- 💬 **Ask me about:** React, Node, Mongo, animations, APIs, product logic
-- 📫 **Contact Me:** Drop a message via [Email](mailto:naveenbeniwal00001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-beniwal-40b719313/)
-- 🌐 **Portfolio:** [naveenbeniwalportfolio.vercel.app](https://naveenbeniwalportfolio.vercel.app/)
----
----
-## 🌍 Open to Remote Internships
+- 🔭 **Current Focus:** Real-time apps, TypeScript backends, clean UI/UX
+- 🌱 **Learning:** Advanced DSA + system design
+- 🌍 **Looking for:** Remote internships with **foreign startups**
+- 💬 **Ask me about:** React, Node, Mongo, product logic, motion design  
+📫 **Contact:** [Email](mailto:naveenbeniwal00001@gmail.com) | [LinkedIn](https://www.linkedin.com/in/naveen-beniwal-40b719313)  
+🌐 **Portfolio:** [naveenbeniwalportfolio.vercel.app](https://naveenbeniwalportfolio.vercel.app/)
 
-I’m currently seeking **remote internship opportunities** or **collaboration offers** with global startups, where I can:
-- Build full-stack features end-to-end
-- Ship clean, scalable products fast
-- Learn from impactful engineering teams
+---
 
-📫 Contact me directly: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
+## ✨ Featured Highlights
+
+- 🚀 Built a fully functional **Placement Portal prototype** solo (now evolving into a real MSME product)
+- 💬 Developing a **real-time chat app** from scratch with WebSockets
+- 🌍 Looking for **remote internships** with product-first global startups
 
 ---
 ## 🌐 Socials

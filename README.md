@@ -129,13 +129,15 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 If you're building something cool or hiring dev interns remotely — let's talk.  
 I’m ready to **contribute, learn fast, and ship real impact**.
 
-## 📊 GitHub Statistics
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=aura&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=aura&hide_border=false&layout=compact)
 
 ---
+
 
 ## 🏆 Trophies
 

@@ -68,18 +68,27 @@
 
 ---
 
-## 📈 Solid Projects!
+## 🚀 Projects That Matter
 
-### 🎓 Placement Portal - Campus Recruitment Management System
-- Automatic resume builder for students.
-- Real-time analytics and interactive dashboards.
-- Eligibility-based job filtering.
-- Smart recruiter dashboard with analytics.
+### 💬 Vartaalap – Real-Time Chat App
+> 🧠 Real-time messaging with typing indicators and online status  
+> 🔐 Role-based auth with JWT, secure socket channels  
+> ⚙️ Built from scratch using MERN + Socket.IO  
+> 📦 Fully scalable backend and modular code structure  
+📌 Tech: React, Node.js, Express, MongoDB, TypeScript, JWT, Socket.IO  
+🔗 [Code (Private)] — Launching Soon
 
-### 📚 Attendance Management System
-- Real-time data sync for teachers, students, and admins.
-- Intuitive dashboard with deep analytics and export options.
+---
 
+### 🎓 Placement Portal (Prototype) – Student Resume & Job System
+> 🔍 Smart eligibility-based job filtering  
+> 🧾 Automated resume builder + admin controls  
+> 📊 Recruiter dashboard with real-time analytics  
+> 🧰 End-to-end built by me to validate and showcase the core product  
+📌 Tech: React, TailwindCSS, Node.js, MongoDB, Express, JWT  
+🔗 [View Code](https://github.com/Naveen-Beniwal/NIT-Placements)
+
+---
 ### 🎬 Movie Streaming Platform
 - Content suggestions using external APIs.
 - 10,000+ movie details and trailers.

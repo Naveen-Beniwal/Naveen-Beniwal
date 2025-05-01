@@ -18,7 +18,16 @@
 - 🌐 **Portfolio:** [naveenbeniwalportfolio.vercel.app](https://naveenbeniwalportfolio.vercel.app/)
 
 ---
+## 🌍 Open to Remote Internships
 
+I’m currently seeking **remote internship opportunities** or **collaboration offers** with global startups, where I can:
+- Build full-stack features end-to-end
+- Ship clean, scalable products fast
+- Learn from impactful engineering teams
+
+📫 Contact me directly: [naveenbeniwal00001@gmail.com](mailto:naveenbeniwal00001@gmail.com)
+
+---
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveen_beniwal_265)

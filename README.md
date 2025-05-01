@@ -5,7 +5,8 @@
 
 # 👋 Hello, I'm Naveen Beniwal
 
-Hey there! 👋 I'm Naveen Beniwal, a passionate **full-stack developer** and a dedicated problem solver. With a knack for building **intuitive UIs** and scalable applications, I thrive on delivering impactful, user-focused solutions.
+💡 I aim to become a product-focused developer, building impactful and scalable web applications for global startups. With strong fundamentals in MERN stack and a growing DSA background, I thrive in teams that value clean code, fast execution, and innovation.
+
 
 - 🔭 **Currently Working On:** Building a Placement Portal to simplify recruitment processes with scalable and user-friendly design
 - 🌱 **Currently Learning:** Exploring advanced recursion and dynamic programming, while refining full-stack development skills

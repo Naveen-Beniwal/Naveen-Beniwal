@@ -106,6 +106,10 @@
 - Contribute to open-source projects that make real impact.
 
 ---
+## 🤝 Let’s Build Something
+
+If you're building something cool or hiring dev interns remotely — let's talk.  
+I’m ready to **contribute, learn fast, and ship real impact**.
 
 ## 📊 GitHub Statistics
 

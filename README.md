@@ -88,7 +88,7 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 ---
 
 ### 💬 Vartaalap – Real-Time Chat App
-> 💬 Real-time messaging, typing indicators, user presence  
+> 💬 Real-time messaging, user presence  
 > 🔐 JWT auth, socket channel security  
 > 🧰 Built from scratch using Socket.IO + MERN  
 📌 Stack: React, TypeScript, Node.js, MongoDB, Socket.IO  

@@ -86,7 +86,7 @@
 > 📊 Recruiter dashboard with real-time analytics  
 > 🧰 End-to-end built by me to validate and showcase the core product  
 📌 Tech: React, TailwindCSS, Node.js, MongoDB, Express, JWT  
-🔗 [View Code](https://github.com/Naveen-Beniwal/NIT-Placements)
+🔗 [View Code](https://github.com/Naveen-Beniwal/PlacementApp)
 
 ---
 ### 🎬 Movie Streaming Platform
@@ -94,13 +94,14 @@
 - 10,000+ movie details and trailers.
 - Responsive, modular codebase.
 - [Live Demo](https://upgraded-mern-stack-video-platform.onrender.com)
+---
 
 ### 🌐 Portfolio Website
 - Showcases advanced front-end skills with interactive UI.
 - Smooth animations with Framer Motion.
 - Fully responsive and accessible.
 - [Live Demo](https://naveenbeniwalportfolio.vercel.app/)
-
+---
 ### ✨ GSAP Animation Project
 - Built a creative, visually rich project using GSAP animations.
 - Fun transitions and scroll-based effects.

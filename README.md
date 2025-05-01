@@ -3,20 +3,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer&descAlign=50&descAlignY=60" alt="Header" />
 </div>
 
-# 👋 Hello, I'm Naveen Beniwal
+## 👋 About Me
 
-💡 I aim to become a product-focused developer, building impactful and scalable web applications for global startups. With strong fundamentals in MERN stack and a growing DSA background, I thrive in teams that value clean code, fast execution, and innovation.
+Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and problem solver who loves building production-grade web applications. I thrive on writing clean, scalable code and delivering smooth user experiences — especially for products that matter.
 
-
-- 🔭 **Currently Working On:** Building a Placement Portal to simplify recruitment processes with scalable and user-friendly design
-- 🌱 **Currently Learning:** Exploring advanced recursion and dynamic programming, while refining full-stack development skills
-- 👯 **Looking to Collaborate On:** AI-powered applications, SaaS platforms, or any project requiring a seamless UI/UX touch
-- 💼 **Core Expertise:** Designing **appealing, responsive UIs** and developing robust backend architectures for scalable applications
-- 💬 **Ask Me About:** Web development, optimizing backend systems, or designing stunning UIs
-- 🎯 **Passion:** Writing clean, maintainable code and delivering top-notch user experiences
+- 🔭 **Current Focus:** Building real-time apps, refining TypeScript and backend architectures
+- 🌱 **Learning:** Advanced DSA + system design for high-scale applications
+- 🌍 **Looking for:** Remote internships with **foreign startups** solving real-world problems
+- 💬 **Ask me about:** React, Node, Mongo, animations, APIs, product logic
 - 📫 **Contact Me:** Drop a message via [Email](mailto:naveenbeniwal00001@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/naveen-beniwal-40b719313/)
 - 🌐 **Portfolio:** [naveenbeniwalportfolio.vercel.app](https://naveenbeniwalportfolio.vercel.app/)
-
+---
 ---
 ## 🌍 Open to Remote Internships
 

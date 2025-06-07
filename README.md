@@ -132,7 +132,8 @@ I’m ready to **contribute, learn fast, and ship real impact**.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Naveen-Beniwal&theme=aura&hide_border=false&include_all_commits=true&count_private=true&v=2)
+![](https://github-readme-stats-fawn-eight-31.vercel.app/api?username=Naveen-Beniwal&count_private=true&include_all_commits=true&theme=aura&hide_border=false)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Beniwal&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Beniwal&theme=aura&hide_border=false&layout=compact)
 

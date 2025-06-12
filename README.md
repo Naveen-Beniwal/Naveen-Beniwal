@@ -93,7 +93,7 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 > 🧰 Built from scratch using Socket.IO + MERN  
 📌 Stack: React, TypeScript, Node.js, MongoDB, Socket.IO  
 🔒 In Progress – DM for preview or collab
-
+🔗 [Live Demo](https://vartaalap-frontend.vercel.app/)
 ---
 
 ### 🎬 Movie Streaming Platform

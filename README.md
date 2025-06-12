@@ -83,7 +83,7 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 > 🔒 Role-based admin features with recruiter controls  
 > 💻 Built solo from scratch as the prototype for a full-scale product  
 📌 Stack: React, TailwindCSS, Node.js, Express, MongoDB, JWT  
-🔗 [View Code](https://github.com/Naveen-Beniwal/PlacementApp)
+🔗 [Live Demo](https://tnp-nitkkr.vercel.app/)
 
 ---
 

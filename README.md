@@ -88,16 +88,16 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 ---
 
 ### 💬 Vartaalap – Real-Time Collaboration + AI Intelligence Platform
-⚡ Next-gen communication meets AI-powered document workflows
-💬 Real-time messaging with typing indicators, online status, media sharing
-🔒 End-to-end channel security with JWT, access tokens & Socket.IO guards
-🧠 Upload PDFs for instant AI-based summary, flaw detection, and Q&A (Hugging Face-powered)
-🧰 Modular microservices, Dockerized setup, tested under load (Autocannon)
-📌 Stack: React • TypeScript • Node.js • MongoDB • Socket.IO • Hugging Face • Appwrite • Docker
-🚨 Free for now – Premium version launching soon
-🔗 Try Vartaalap Now(vartaalap-frontend.vercel.app/)
+> ⚡ Next-gen communication meets AI-powered document workflows  
+> 💬 Real-time chat with typing indicators, online presence, media sharing  
+> 🔒 JWT auth, channel-level Socket.IO security, role-based access  
+> 🧠 Upload any PDF to get AI-generated summaries, flaw detection & Q&A (Hugging Face)  
+> 🧰 Microservice architecture, Dockerized deployment, performance-tested with Autocannon  
+📌 Stack: React, TypeScript, Node.js, MongoDB, Socket.IO, Hugging Face, Appwrite, Docker  
+🚨 Free for now – Premium version launching soon  
+🔗 [Try Vartaalap Now](https://vartaalap-frontend.vercel.app/)  
 📩 DM for partnership, feedback, or early access API keys
----
+
 
 ### 🎬 Movie Streaming Platform
 > 🎥 Search and view over 10,000 movies with trailers  

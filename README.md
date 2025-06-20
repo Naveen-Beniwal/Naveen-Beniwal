@@ -87,13 +87,16 @@ Hey there! I'm **Naveen Beniwal**, a passionate **full-stack developer** and pro
 
 ---
 
-### 💬 Vartaalap – Real-Time Chat App
-> 💬 Real-time messaging, user presence  
-> 🔐 JWT auth, socket channel security  
-> 🧰 Built from scratch using Socket.IO + MERN  
-📌 Stack: React, TypeScript, Node.js, MongoDB, Socket.IO  
-🔒 In Progress – DM for preview or collab
-🔗 [Live Demo](https://vartaalap-frontend.vercel.app/)
+### 💬 Vartaalap – Real-Time Collaboration + AI Intelligence Platform
+⚡ Next-gen communication meets AI-powered document workflows
+💬 Real-time messaging with typing indicators, online status, media sharing
+🔒 End-to-end channel security with JWT, access tokens & Socket.IO guards
+🧠 Upload PDFs for instant AI-based summary, flaw detection, and Q&A (Hugging Face-powered)
+🧰 Modular microservices, Dockerized setup, tested under load (Autocannon)
+📌 Stack: React • TypeScript • Node.js • MongoDB • Socket.IO • Hugging Face • Appwrite • Docker
+🚨 Free for now – Premium version launching soon
+🔗 Try Vartaalap Now(vartaalap-frontend.vercel.app/)
+📩 DM for partnership, feedback, or early access API keys
 ---
 
 ### 🎬 Movie Streaming Platform

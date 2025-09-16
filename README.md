@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20AI%20SaaS%20Builder%20%7C%20Remote%20Internship%20Ready&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Naveen%20Beniwal&fontAlign=50&fontAlignY=40&fontSize=45&desc=Full%20Stack%20Developer%20%7C%20AI%20SaaS%20Builder%20%7&descAlign=50&descAlignY=60" alt="Header" />
 </div>
 
 <h2 align="center">🚀 Building Fast, Scalable, AI-Powered Web Products</h2>

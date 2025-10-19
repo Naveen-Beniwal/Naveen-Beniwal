@@ -11,7 +11,7 @@
 
 I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Tech in Computer Science at **NIT Kurukshetra (2023–2027)**. I enjoy transforming raw ideas into live, scalable platforms with real-world impact.
 
-- 🧠 **Founder @ CVInsight** – Launched an AI-powered SaaS product reaching 20,000+ visitors, 1200+ users, and 50+ paid customers.
+- 🧠 **Founder @ CVInsight** – Launched an AI-powered SaaS product reaching 40,000+ visitors, 1500+ users, and 70+ paid customers.
 - 🏫 **Developer @ Campus Placement Portal** – Built a production-grade recruitment system, now under review by NIT Kurukshetra for official use.
 - 💬 Worked on real-time collaboration apps, microservices, media sharing, and document intelligence pipelines.
 - 💡 Always learning and exploring opportunities for impactful remote internships and product collaborations.
@@ -25,7 +25,7 @@ I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Te
 ### 🧠 [CVInsight – AI Career Intelligence Platform](https://cvinsight.me)
 > SaaS platform for resume analysis, AI feedback, document summarization & career guidance
 
-- 📈 Achieved **20,000+ visitors**, **50,000+ page views**, **1200+ users**, and **50+ paid users**.
+- 📈 Achieved **20,000+ visitors**, **70,000+ page views**, **1500+ users**, and **70+ paid users**.
 - 🧠 Built a **multi-provider AI infrastructure** with intelligent fallbacks for consistent analysis and performance.
 - 🔐 Implemented custom authentication (JWT + OAuth), bot protection, honeypots, and rate limiting.
 - 🛠️ Tech Stack: TypeScript, React, Node.js, MongoDB, Appwrite, Docker
@@ -69,7 +69,7 @@ I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Te
 - 📚 Solved 400+ DSA problems on LeetCode and GFG.
 - 🎓 CGPA: 9.3875 at NIT Kurukshetra (9.85 in 3rd semester).
 - 🏆 Secured AIR 7072 in JEE Mains 2023 among 1.2M+ candidates.
-- 💡 Reached 2nd round of Smart India Hackathon 2024.
+
 
 ---
 

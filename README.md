@@ -11,7 +11,7 @@
 
 I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Tech in Computer Science at **NIT Kurukshetra (2023–2027)**. I enjoy transforming raw ideas into live, scalable platforms with real-world impact.
 
-- 🧠 **Founder @ CVInsight** – Launched an AI-powered SaaS product reaching 40,000+ visitors, 1500+ users, and 70+ paid customers.
+- 🧠 **Founder @ CVInsight** – Launched an AI-powered SaaS product reaching 60,000+ visitors, 1900+ users, and 80+ paid customers.
 - 🏫 **Developer @ Campus Placement Portal** – Built a production-grade recruitment system, now under review by NIT Kurukshetra for official use.
 - 💬 Worked on real-time collaboration apps, microservices, media sharing, and document intelligence pipelines.
 - 💡 Always learning and exploring opportunities for impactful remote internships and product collaborations.
@@ -25,7 +25,7 @@ I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Te
 ### 🧠 [CVInsight – AI Career Intelligence Platform](https://cvinsight.me)
 > SaaS platform for resume analysis, AI feedback, document summarization & career guidance
 
-- 📈 Achieved **20,000+ visitors**, **70,000+ page views**, **1500+ users**, and **70+ paid users**.
+- 📈 Achieved **20,000+ visitors**, **70,000+ page views**, **1900+ users**, and **80+ paid users**.
 - 🧠 Built a **multi-provider AI infrastructure** with intelligent fallbacks for consistent analysis and performance.
 - 🔐 Implemented custom authentication (JWT + OAuth), bot protection, honeypots, and rate limiting.
 - 🛠️ Tech Stack: TypeScript, React, Node.js, MongoDB, Appwrite, Docker

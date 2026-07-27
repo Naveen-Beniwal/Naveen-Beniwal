@@ -6,17 +6,28 @@
 <h2 align="center">🚀 Building Fast, Scalable, AI-Powered Web Products</h2>
 
 ---
-
 ## 👋 About Me
 
-I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Tech in Computer Science at **NIT Kurukshetra (2023–2027)**. I enjoy transforming raw ideas into live, scalable platforms with real-world impact.
+I'm **Naveen Beniwal**, a full-stack developer and product builder pursuing B.Tech in Computer Engineering at **NIT Kurukshetra (2023–2027)**. I enjoy transforming raw ideas into live, scalable platforms with real-world impact.
 
+- 💼 **Software Engineering Intern @ SAP Concur** – Building enterprise-level smart routing systems and integrating SAP AI Core models in Java/Spring Boot.
 - 🧠 **Founder @ CVInsight** – Launched an AI-powered SaaS product reaching 60,000+ visitors, 2600+ users, and 80+ paid customers.
 - 🏫 **Developer @ Campus Placement Portal** – Built a production-grade recruitment system, now under review by NIT Kurukshetra for official use.
 - 💬 Worked on real-time collaboration apps, microservices, media sharing, and document intelligence pipelines.
 - 💡 Always learning and exploring opportunities for impactful remote internships and product collaborations.
 
 📫 [Email](mailto:naveenbeniwal00001@gmail.com) • [Portfolio](https://naveenbeniwalportfolio.vercel.app) • [LinkedIn](https://www.linkedin.com/in/naveen-beniwal-40b719313)
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Engineering Intern — SAP Concur (Invoice Team)
+> *SAP Labs India, Bengaluru | May 2026 – July 2026*
+
+- **Smart Routing Infrastructure:** Implemented a rule-based invoice assignment system in **Java/Spring Boot** using the Chain of Responsibility pattern (Vendor Default, Vendor Familiarity, Workload Balanced, and Fallback rules).
+- **AI Integration POC:** Built and evaluated a proof-of-concept integrating the invoice-service with **SAP AI Core's RPT-1 model** for AI-assisted invoice owner prediction on real customer datasets.
+- **Quality Assurance & AI Debugging:** Authored 15 unit tests in **Spock/Groovy**; investigated and resolved accuracy issues in Policy Navigator, a RAG-based AI assistant.
 
 ---
 
